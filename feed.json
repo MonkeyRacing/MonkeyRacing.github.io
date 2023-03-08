@@ -9,5 +9,32 @@
         "name": "Monkey Racing Group"
     },
     "items": [
+        {
+            "id": "https://monkeyracing.github.io/welcome-to-monkey-racing/",
+            "url": "https://monkeyracing.github.io/welcome-to-monkey-racing/",
+            "title": "Welcome to 🐵Monkey Racing🍌",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube-nocookie.com/embed/TDuknsWCqzE\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "author": {
+                "name": "Monkey Racing Group"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-03-07T22:14:44-05:00",
+            "date_modified": "2023-03-07T22:15:04-05:00"
+        },
+        {
+            "id": "https://monkeyracing.github.io/2023-monkey-racing-chimpanionship-schedule-season-1/",
+            "url": "https://monkeyracing.github.io/2023-monkey-racing-chimpanionship-schedule-season-1/",
+            "title": "2023 🐵Monkey Racing🍌 Chimpanionship Schedule - Season 1",
+            "summary": "Event Date F1 Race Start Time Group A Start Time Group B Start Time Bahrain Grand Prix 5 March 15:00 18:00 13:00 Malaysian&hellip;",
+            "content_html": "<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 19.9698%;\">\n<p align=\"center\">Event</p>\n</td>\n<td style=\"width: 19.9698%;\">\n<p align=\"center\">Date</p>\n</td>\n<td style=\"width: 19.9698%;\">\n<p align=\"center\">F1 Race</p>\n<p align=\"center\">Start Time</p>\n</td>\n<td style=\"width: 19.9698%;\">\n<p align=\"center\">Group A</p>\n<p align=\"center\">Start Time</p>\n</td>\n<td style=\"width: 19.9786%;\">\n<p align=\"center\">Group B</p>\n<p align=\"center\">Start Time</p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 19.9698%;\">\n<p align=\"left\">Bahrain Grand Prix</p>\n</td>\n<td style=\"width: 19.9698%;\">\n<p align=\"center\">5 March</p>\n</td>\n<td style=\"width: 19.9698%;\">\n<p align=\"center\">15:00</p>\n</td>\n<td style=\"width: 19.9698%;\">\n<p align=\"center\">18:00</p>\n</td>\n<td style=\"width: 19.9786%;\">\n<p align=\"center\">13:00</p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 19.9698%;\">\n<p align=\"left\">Malaysian Grand Prix</p>\n</td>\n<td style=\"width: 19.9698%;\">\n<p align=\"center\">19 March</p>\n</td>\n<td style=\"width: 19.9698%;\">\n<p align=\"center\">17:00</p>\n</td>\n<td style=\"width: 19.9698%;\">\n<p align=\"center\">15:00</p>\n</td>\n<td style=\"width: 19.9786%;\">\n<p align=\"center\">13:00</p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 19.9698%;\">\n<p align=\"left\">Australian Grand Prix</p>\n</td>\n<td style=\"width: 19.9698%;\">\n<p align=\"center\">2 April</p>\n</td>\n<td style=\"width: 19.9698%;\">\n<p align=\"center\">05:00</p>\n</td>\n<td style=\"width: 19.9698%;\">\n<p align=\"center\">16:00</p>\n</td>\n<td style=\"width: 19.9786%;\">\n<p align=\"center\">14:00</p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 19.9698%;\">\n<p align=\"left\">Chinese Grand Prix</p>\n</td>\n<td style=\"width: 19.9698%;\">\n<p align=\"center\">16 April</p>\n</td>\n<td style=\"width: 19.9698%;\">\n<p align=\"center\">n/a</p>\n</td>\n<td style=\"width: 19.9698%;\">\n<p align=\"center\">16:00</p>\n</td>\n<td style=\"width: 19.9786%;\">\n<p align=\"center\">14:00</p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 19.9698%;\">\n<p align=\"left\">Azerbaijan Grand Prix</p>\n</td>\n<td style=\"width: 19.9698%;\">\n<p align=\"center\">30 April</p>\n</td>\n<td style=\"width: 19.9698%;\">\n<p align=\"center\">11:00</p>\n</td>\n<td style=\"width: 19.9698%;\">\n<p align=\"center\">16:00</p>\n</td>\n<td style=\"width: 19.9786%;\">\n<p align=\"center\">14:00</p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 19.9698%;\">\n<p align=\"left\">Turkish Grand Prix</p>\n</td>\n<td style=\"width: 19.9698%;\">\n<p align=\"center\">7 May</p>\n</td>\n<td style=\"width: 19.9698%;\">\n<p align=\"center\">19:30</p>\n</td>\n<td style=\"width: 19.9698%;\">\n<p align=\"center\">16:00</p>\n</td>\n<td style=\"width: 19.9786%;\">\n<p align=\"center\">14:00</p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 19.9698%;\">\n<p align=\"left\">Emilia Romagna Grand Prix</p>\n</td>\n<td style=\"width: 19.9698%;\">\n<p align=\"center\">21 May</p>\n</td>\n<td style=\"width: 19.9698%;\">\n<p align=\"center\">13:00</p>\n</td>\n<td style=\"width: 19.9698%;\">\n<p align=\"center\">16:00</p>\n</td>\n<td style=\"width: 19.9786%;\">\n<p align=\"center\">18:30</p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 19.9698%;\">\n<p align=\"left\">Monaco Grand Prix</p>\n</td>\n<td style=\"width: 19.9698%;\">\n<p align=\"center\">28 May</p>\n</td>\n<td style=\"width: 19.9698%;\">\n<p align=\"center\">13:00</p>\n</td>\n<td style=\"width: 19.9698%;\">\n<p align=\"center\">16:00</p>\n</td>\n<td style=\"width: 19.9786%;\">\n<p align=\"center\">18:30</p>\n</td>\n</tr>\n</tbody>\n</table>",
+            "author": {
+                "name": "Monkey Racing Group"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-03-07T22:11:26-05:00",
+            "date_modified": "2023-03-07T22:11:26-05:00"
+        }
     ]
 }
