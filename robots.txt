@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://monkeyracing.github.io/sitemap.xml
