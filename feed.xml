@@ -3,12 +3,74 @@
     <title>🐵Monkey Racing🍌</title>
     <link href="https://monkeyracing.github.io/feed.xml" rel="self" />
     <link href="https://monkeyracing.github.io" />
-    <updated>2023-03-07T22:15:04-05:00</updated>
+    <updated>2023-03-07T22:41:29-05:00</updated>
     <author>
         <name>Monkey Racing Group</name>
     </author>
     <id>https://monkeyracing.github.io</id>
 
+    <entry>
+        <title>🐵Monkey Racing🍌 - Rules of Racing</title>
+        <author>
+            <name>Monkey Racing Group</name>
+        </author>
+        <link href="https://monkeyracing.github.io/monkey-racing-rules-of-racing/"/>
+        <id>https://monkeyracing.github.io/monkey-racing-rules-of-racing/</id>
+
+        <updated>2023-03-07T22:39:40-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Be familiar with the track and the basic rules of racing before joining our servers Race clean and fair (All the time you&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="blockquoteContainer-3VtvI1">
+<blockquote>Be familiar with the track and the basic rules of racing before joining our servers</blockquote>
+</div>
+<div class="blockquoteContainer-3VtvI1">
+<div class="blockquoteDivider-363utW"> </div>
+<blockquote>Race clean and fair (All the time you have to leave a space!)</blockquote>
+</div>
+<div class="blockquoteContainer-3VtvI1">
+<div class="blockquoteDivider-363utW"> </div>
+<blockquote>Respect cars lapping you when shown a blue flag in the race</blockquote>
+</div>
+<div class="blockquoteContainer-3VtvI1">
+<div class="blockquoteDivider-363utW"> </div>
+<blockquote>Respect hotlappers on your outlap in qualifying</blockquote>
+</div>
+<div class="blockquoteContainer-3VtvI1">
+<div class="blockquoteDivider-363utW"> </div>
+<blockquote>Leave the pit lane safely (do not cross the pit exit line); yield to cars already on track</blockquote>
+</div>
+<div class="blockquoteContainer-3VtvI1">
+<div class="blockquoteDivider-363utW"> </div>
+<blockquote>Rejoin the track safely; yield to cars already on track</blockquote>
+</div>
+<div class="blockquoteContainer-3VtvI1">
+<div class="blockquoteDivider-363utW"> </div>
+<blockquote>Do not crash on purpose</blockquote>
+</div>
+<div class="blockquoteContainer-3VtvI1">
+<div class="blockquoteDivider-363utW"> </div>
+<blockquote>Do not use bad language; do not be racist; do not spam the chat</blockquote>
+</div>
+<div class="blockquoteContainer-3VtvI1">
+<div class="blockquoteDivider-363utW"> </div>
+<blockquote>Use a unique name; do not use names like Player, User, CODEX, or RLD!</blockquote>
+</div>
+<div class="blockquoteContainer-3VtvI1">
+<div class="blockquoteDivider-363utW"> </div>
+<blockquote>If you cause an incident, apologize (say sorry!)</blockquote>
+</div>
+<div class="blockquoteContainer-3VtvI1">
+<div class="blockquoteDivider-363utW"> </div>
+<blockquote>Report incidents and rule violations to moderators in the server or on Discord</blockquote>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Welcome to 🐵Monkey Racing🍌</title>
         <author>
@@ -16,11 +78,13 @@
         </author>
         <link href="https://monkeyracing.github.io/welcome-to-monkey-racing/"/>
         <id>https://monkeyracing.github.io/welcome-to-monkey-racing/</id>
+        <media:content url="https://monkeyracing.github.io/media/posts/2/Monkey_GIF.gif" medium="image" />
 
-        <updated>2023-03-07T22:15:04-05:00</updated>
+        <updated>2023-03-07T22:41:29-05:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://monkeyracing.github.io/media/posts/2/Monkey_GIF.gif" class="type:primaryImage" alt="" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube-nocookie.com/embed/TDuknsWCqzE" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
