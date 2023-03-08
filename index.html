@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Time Schedule</title>
+  <style>
+    /* Additional CSS styles for a nicer design */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f7f7f7;
+    }
+    header {
+      background-color: #333;
+      color: white;
+      padding: 10px;
+      text-align: center;
+    }
+    h1 {
+      margin: 0;
+      font-size: 36px;
+    }
+    table {
+      border-collapse: collapse;
+      margin: 20px auto;
+      background-color: white;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    th, td {
+      border: 1px solid #ddd;
+      padding: 10px;
+      text-align: center;
+    }
+    th {
+      background-color: #333;
+      color: white;
+    }
+    /* Additional CSS styles for cyan and yellow colors */
+    tbody tr:nth-child(odd) {
+      background-color: #f2f2f2;
+    }
+    tbody tr:nth-child(even) {
+      background-color: #fffacd;
+    }
+    th:nth-child(2),
+    th:nth-child(4),
+    th:nth-child(6),
+    td:nth-child(2),
+    td:nth-child(4),
+    td:nth-child(6) {
+      background-color: cyan;
+      color: white;
+    }
+    th:nth-child(3),
+    th:nth-child(5),
+    td:nth-child(3),
+    td:nth-child(5) {
+      background-color: yellow;
+      color: white;
+    }
+    /* Additional CSS styles for the race car element */
+    .race-car {
+      position: relative;
+      left: -50px;
+      top: 20px;
+      animation: race 10s linear infinite;
+    }
+    @keyframes race {
+      from {left: -50px;}
+      to {left: 100%;}
+    }
+    /* Additional CSS styles for the donation section */
+    #donation {
+      background-color: #333;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    #donation h2 {
+      margin: 0;
+      font-size: 24px;
+    }
+    #donation p {
+      margin: 10px 0;
+      font-size: 18px;
+    }
+    #donation form {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-top: 20px;
+    }
+    #donation label {
+      font-size: 18px;
+      margin-bottom: 10px;
+    }
+    #donation input {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 20px;
+      border-radius: 5px;
+      border: none;
+    }
+    #donation button {
+      background-color: cyan;
+      color: white;
+      padding: 10px;
+      border: none;
+      border-radius: 5px;
+      font-size: 18px;
+      cursor: pointer;
+    }
+    #donation button:hover {
+      background-color: yellow;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Time Schedule</h1>
+  </header>
+  
+  <table>
+    <thead>
+      <tr>
+        <th>Day</th>
+        <th>9am - 10am</th>
+        <th>10am - 11am</th>
+        <th>11am - 12pm</th>
+        <th>12pm - 1pm</th>
+        <th>1pm - 2pm</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Monday</td>
+        <td>Math</td>
+        <td>Science</td>
+        <td>History</td>
+        <td>Lunch</td>
+        <td>English</td>
+      </tr>
+      <tr>
+        <td>Tuesday</td>
+        <td>History</td>
+        <td>Math</td>
+        <td>Science</td>
+        <td>Lunch</td>
+        <td>English</td>
+      </tr>
+      <tr>
+        <td>Wednesday</td>
+        <td>English</td>
+        <td>History</td>
+        <td>Math</td>
+        <td>Lunch</td>
+        <td>Science</td>
+      </tr>
+      <tr>
+        <td>Thursday</td>
+        <td>Science</td>
+        <td>English</td>
+        <td>History</td>
+        <td>Lunch</td>
+        <td>Math</td>
+      </tr>
+      <tr>
+        <td>Friday</td>
+        <td>Math</td>
+        <td>Science</td>
+        <td>English</td>
+        <td>Lunch</td>
+        <td>History</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  <div class="race-car">
+    <img src="https://i.imgur.com/qiXm6Mx.png" alt="Race car">
+  </div>
+  
+  <div id="donation">
+    <h2>Support our website!</h2>
+    <p>If you find this website helpful, please consider making a donation to support our team.</p>
+    <form>
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="name" required>
+      <label for="email">Email:</label>
+      <input type="email" id="email" name="email" required>
+      <label for="amount">Amount:</label>
+      <input type="number" id="amount" name="amount" min="1" required>
+      <button type="submit">Donate now</button>
+    </form>
+  </div>
+</body>
+
+</html>
